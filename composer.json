@@ -10,8 +10,8 @@
     ],
     "require": {
         "vectorface/whip": "^0.3.1",
-        "illuminate/support": "^5.4",
-        "Illuminate/Http": "^5.4"
+        "illuminate/support": "^6.0",
+        "illuminate/http": "^6.0"
     },
     "autoload": {
         "psr-4": {
