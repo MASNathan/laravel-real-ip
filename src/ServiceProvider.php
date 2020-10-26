@@ -22,14 +22,4 @@ class ServiceProvider extends BaseServiceProvider
             return $whip->getValidIpAddress() ?: $this->ip();
         });
     }
-
-    /**
-     * Register the application services.
-     *
-     * @return void
-     */
-    public function register()
-    {
-        //
-    }
 }
